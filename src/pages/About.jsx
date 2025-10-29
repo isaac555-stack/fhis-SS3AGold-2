@@ -53,13 +53,14 @@ const contributors = [
     quote: "Helped fund the project’s foundation stage.",
     image: "https://via.placeholder.com/120",
   },
-
-  {
-    name: "Flora Home Class of 2025",
-    role: "Support Team",
-    quote: "Their encouragement and contributions made it all possible.",
+ {
+    name: "Okonkwo Favour",
+    role: "Supporter",
+    quote: "Helped fund the project’s foundation stage.",
     image: "https://via.placeholder.com/120",
   },
+
+ 
 ];
 
 export default function About() {
@@ -207,3 +208,4 @@ export default function About() {
     </Box>
   );
 }
+
