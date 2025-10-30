@@ -20,7 +20,7 @@ export default function Home() {
     >
       <Container
         maxWidth="md"
-        sx={{ mb: { xs: 10, md: 0 }, mt: { xs: 15, md: 0 } }}
+        sx={{ mb: { xs: 14, md: 0 }, mt: { xs: 15, md: 0 } }}
       >
         <Stack spacing={3} alignItems="center" justifyContent={"center"}>
           <img
@@ -77,3 +77,4 @@ export default function Home() {
     </Box>
   );
 }
+
