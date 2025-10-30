@@ -72,7 +72,7 @@ export default function Calculator() {
         alignItems: "center",
 
         mt: { xs: 15, md: 15 },
-        mb: { xs: 10, md: 10 },
+        mb: { xs: 14, md: 10 },
       }}
     >
       <Paper elevation={3} sx={{ p: 4, borderRadius: 1, width: "100%" }}>
@@ -190,3 +190,4 @@ export default function Calculator() {
     </Container>
   );
 }
+
