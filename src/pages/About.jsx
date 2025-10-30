@@ -68,7 +68,7 @@ export default function About() {
     <Box
       sx={{
         mt: { xs: 10, md: 10 },
-        mb: { xs: 10, md: 10 },
+        mb: { xs: 14, md: 10 },
         py: 6,
         background: "linear-gradient(to bottom right, #f8fbff, #eef2ff)",
         minHeight: "100vh",
@@ -208,4 +208,5 @@ export default function About() {
     </Box>
   );
 }
+
 
