@@ -10,7 +10,7 @@ export default function Footer() {
         bottom: 0,
         left: 0,
         width: "100%",
-        py: 2,
+        py: 3,
         textAlign: "center",
         backgroundColor: "#f5f5f5",
         borderTop: "1px solid #ddd",
@@ -28,3 +28,4 @@ export default function Footer() {
     </Box>
   );
 }
+
