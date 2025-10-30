@@ -40,7 +40,7 @@ export default function Navbar() {
           style={{ height: "45px", marginRight: "10px" }}
         />
         <Typography
-          variant="h6"
+          variant="subtitle2"
           component={Link}
           to="/"
           color="inherit"
@@ -126,3 +126,4 @@ export default function Navbar() {
     </AppBar>
   );
 }
+
